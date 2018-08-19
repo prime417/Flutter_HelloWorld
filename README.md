@@ -1,7 +1,7 @@
 # tutorial
 
-A new Flutter project.
 
+Created  a Hello World app in Flutter
 ## Getting Started
 
 For help getting started with Flutter, view our online
